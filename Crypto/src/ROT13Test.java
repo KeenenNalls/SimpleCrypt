@@ -1,4 +1,5 @@
 import org.junit.Test;
+import com.sun.jdi.CharValue;
 
 import static org.junit.Assert.*;
 
